@@ -26,9 +26,6 @@ build/
 *.ipch
 *.log
 /.vs/
-example/
-sprng/
-terraphast/
+
+
 test_scripts/
-vectorclass/
-zlib-1.2.7/
